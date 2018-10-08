@@ -1,0 +1,10 @@
+database.sqlite
+node_modules/
+package-lock.json
+CA.txt
+server.js
+database_lite.sqlite
+.DS_Store
+dist/
+src/components/Home.vue
+app.js
